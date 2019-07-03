@@ -1,0 +1,11 @@
+<resources>
+<string name="app_name">EventHandleTest</string>
+<string name="action_settings">Settings</string>
+<string name="text_msg">Listener Interface or Next...</string>
+<string name="text2_msg">Select a way for Event Handling</string>
+<string name="text_btn1">Inner Listener Class Button</string>
+<string name="text_btn2">onClick Button</string>
+<string name="text_btnMain">Listener Interface Button</string>
+<string name="text_btn3">Listener in Separate Class Button</string>
+<string name="text_next">Go to next Activity</string>
+</resources>
